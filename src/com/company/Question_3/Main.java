@@ -30,7 +30,7 @@ public class Main {
 
     private void showArrayList() {
         int l = 1;
-        for ( : )
+//        for ( : )
 
 
 

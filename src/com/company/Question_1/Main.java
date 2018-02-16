@@ -20,8 +20,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Main list = new Main();
-        list.addToArrayList();
+//        Main list = new Main();
+//        list.addToArrayList();
 
         List<ArrayList> arrayList = new ArrayList();
          /*
