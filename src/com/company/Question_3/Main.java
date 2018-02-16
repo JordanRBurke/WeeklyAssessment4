@@ -29,8 +29,19 @@ public class Main {
     }
 
     private void showArrayList() {
-        int l = 1;
-//        for ( : )
+
+        System.out.println(carsList.get(0) + "" +
+                " " + carsList.get(1) + "" +
+                " " + carsList.get(2) + "" +
+                " " + carsList.get(3) + "" +
+                " " + carsList.get(4));
+//        carsList.get(1);
+//        carsList.get(2);
+//        carsList.get(3);
+//        carsList.get(4);
+
+
+        }
 
 
 
@@ -38,4 +49,4 @@ public class Main {
     }
 
 
-}
+

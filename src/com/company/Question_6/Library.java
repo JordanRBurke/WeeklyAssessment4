@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Library {
 
-    private List<Game> gameLibrary = new ArrayList<Game>();
+    private List<Game> gameLibrary = new ArrayList();
     private Menu menu;
 
 

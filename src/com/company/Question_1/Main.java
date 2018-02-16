@@ -12,16 +12,13 @@ public class Main {
 
 
 
-    public class addToArrayList {
 
-
-
-    }
 
     public static void main(String[] args) {
 
-//        Main list = new Main();
-//        list.addToArrayList();
+        Main menu = new Main();
+//        menu.addToArrayList();
+
 
         List<ArrayList> arrayList = new ArrayList();
          /*
@@ -36,6 +33,12 @@ public class Main {
 
     }
 
+    public class addToArrayList {
 
+
+
+
+
+    }
 
 }
